@@ -1,0 +1,5 @@
+ .card:hover{
+  height: 150px;
+  padding: 20px 0;
+  transition: 1s ease-in-out;
+ }
